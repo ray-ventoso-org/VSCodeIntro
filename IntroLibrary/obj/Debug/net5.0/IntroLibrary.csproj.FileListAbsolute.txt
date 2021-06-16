@@ -1,0 +1,12 @@
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/IntroLibrary.deps.json
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/IntroLibrary.dll
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/ref/IntroLibrary.dll
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/IntroLibrary.pdb
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.AssemblyReference.cache
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfoInputs.cache
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfo.cs
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.dll
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/ref/IntroLibrary.dll
+/Users/ray.ventoso/Projects/pots/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.pdb
